@@ -19,14 +19,7 @@ This is a simple medical lab website built using HTML & CSS.
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Flexbox)
-  al-safwa-lab/
-│
-├── index.html
-├── booking.html
-├── cssfolder/
-│   └── stylesheet.css
-└── lap/
-    └── lap.jfif
+  
   ---
 
 ## 👨‍💻 Author
@@ -40,3 +33,11 @@ This project is part of my journey learning Front-End Development.
 ---
 
 ## 📂 Project Structure
+ al-safwa-lab/
+│
+├── index.html
+├── booking.html
+├── cssfolder/
+│   └── stylesheet.css
+└── lap/
+    └── lap.jfif
